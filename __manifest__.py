@@ -6,6 +6,7 @@
     'author': 'My Company',
     'depends': [
         'base',
+        'contacts'
     ],
     'data': [],
     'application': False,
